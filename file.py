@@ -7,3 +7,5 @@ Created on Thu Jan 23 14:41:11 2020
 
 def func(a,b):
     return a + b
+
+print(operation= 76*"sje")
