@@ -9,3 +9,5 @@ def func(a,b):
     return a + b
 
 print(operation= 76*"sje")
+
+hate="I Hate Dataiz)
